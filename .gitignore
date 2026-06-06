@@ -1,0 +1,32 @@
+# Credentials & secrets — never commit
+gmail_credentials.json
+gmail_token.json
+*.token.json
+.env
+.env.*
+config.local.yaml
+secrets/
+
+# Data & outputs
+*.db
+*.sqlite
+*.csv
+*.xlsx
+leads*
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python virtualenv
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
