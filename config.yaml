@@ -1,0 +1,22 @@
+outreach:
+  daily_limit: 30
+  sender_email: getpipelinedocker@gmail.com
+  sender_name: pipeline Docker by Ash
+  timezone: Europe/Rome
+product:
+  description: ''
+  name: ''
+  value_prop: ''
+signature:
+  company: ''
+  logo_url: https://smartdevdesk.com/wp-content/uploads/2026/05/logo-no-bg.png
+  name: Ashkan Dorkian
+  phone: ''
+  title: Founder & CEO
+  website: ''
+target:
+  company_size: ''
+  industry: ''
+  location: ''
+  pain_points: []
+  role: ''
