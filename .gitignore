@@ -30,3 +30,5 @@ env/
 .vscode/
 .idea/
 *.code-workspace
+
+scrape_commercialisti.py
